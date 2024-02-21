@@ -40,3 +40,10 @@
 .read-the-docs {
   color: #888;
 }
+.modal{
+  margin-top: 2rem;
+  position: absolute;
+  right: 40%;
+ 
+  padding: 1rem;
+}
